@@ -1,0 +1,7 @@
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio specific
+.Rproj.user/
