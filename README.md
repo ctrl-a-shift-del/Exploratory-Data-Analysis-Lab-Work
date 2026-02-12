@@ -15,3 +15,7 @@ Each experiment directory contains:
 1.  **Source Code:** An R script (`.R`) containing the data processing and visualization logic.
 2.  **Dataset:** The CSV file used for analysis.
 3.  **Outputs:** Generated visualization figures.
+
+## Credits
+**Author:** Shailendra C  
+**Roll Number:** 23BAD108
